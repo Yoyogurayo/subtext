@@ -1,0 +1,17 @@
+{
+  "akira": {
+    "role": "mentor figure, older sister energy",
+    "register": "low-key, sardonic, dry humor; short clipped sentences",
+    "notes": "downplays her own effort; teasing but protective"
+  },
+  "mira": {
+    "role": "junior apprentice",
+    "register": "bright, casual-polite, energetic; stretches vowels when teasing",
+    "notes": "idolizes akira; hides worry behind cheerfulness"
+  },
+  "narrator": {
+    "role": "omniscient narrator",
+    "register": "literary, atmospheric, unhurried",
+    "notes": "period-piece tone; avoids modern phrasing"
+  }
+}
